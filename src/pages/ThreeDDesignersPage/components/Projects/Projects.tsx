@@ -1,13 +1,13 @@
 import styles from "./Projects.module.css";
-import pool from "../../../../assets/images/three-d-pool.png";
-import house from "../../../../assets/images/three-d-house.png";
-import coffee from "../../../../assets/images/three-d-coffee.png";
-import yorik from "../../../../assets/images/three-d-yorik.png";
-import village from "../../../../assets/images/three-d-village.png";
-import stairs from "../../../../assets/images/three-d-stairs.png";
-import stairs1 from "../../../../assets/images/three-d-stairs1.png";
-import stairs2 from "../../../../assets/images/three-d-stairs2.png";
-import stairs3 from "../../../../assets/images/three-d-stairs3.png";
+import pool from "../../../../assets/images/three-d-pool.jpg";
+import house from "../../../../assets/images/three-d-house.jpg";
+import coffee from "../../../../assets/images/three-d-coffee.jpg";
+import yorik from "../../../../assets/images/three-d-yorik.jpg";
+import village from "../../../../assets/images/three-d-village.jpg";
+import stairs from "../../../../assets/images/three-d-stairs.jpg";
+import stairs1 from "../../../../assets/images/three-d-stairs1.jpg";
+import stairs2 from "../../../../assets/images/three-d-stairs2.jpg";
+import stairs3 from "../../../../assets/images/three-d-stairs3.jpg";
 
 export function Projects() {
   return (

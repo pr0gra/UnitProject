@@ -1,16 +1,14 @@
 import * as React from "react";
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
-import img1 from "../../../../assets/images/design-img1.png";
-import img2 from "../../../../assets/images/design-img2.png";
-import img3 from "../../../../assets/images/design-img3.png";
-import img4 from "../../../../assets/images/design-img4.png";
-import img5 from "../../../../assets/images/design-img5.png";
-import img6 from "../../../../assets/images/design-img6.png";
-import img7 from "../../../../assets/images/design-img7.png";
-import img8 from "../../../../assets/images/design-img8.png";
-import img9 from "../../../../assets/images/design-img9.png";
-import img10 from "../../../../assets/images/design-img10.png";
+
+import img3 from "../../../../assets/images/design-img3.jpg";
+import img4 from "../../../../assets/images/design-img4.jpg";
+import img5 from "../../../../assets/images/design-img5.jpg";
+import img6 from "../../../../assets/images/design-img6.jpg";
+import img7 from "../../../../assets/images/design-img7.jpg";
+
+import img10 from "../../../../assets/images/design-img10.jpg";
 import styles from "./OurProjects.module.css";
 
 export function OurProjects() {

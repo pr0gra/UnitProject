@@ -3,7 +3,7 @@ import { MainPerson } from "../../components/MainPerson/MainPerson";
 import { OurStack } from "./components/OurStack/OurStack";
 import { ProgrammersPageHero } from "./components/ProgrammersPageHero/ProgrammersPageHero";
 import styles from "./ProgrammersPage.module.css";
-import anar from "../../assets/images/anar.png";
+import anar from "../../assets/images/anar.jpg";
 import { Footer } from "../../components/Footer/Footer";
 import { OurProject } from "./components/OurProjects/OurProjects";
 import { OurActivities } from "./components/OurActivities/OurAcrivities";

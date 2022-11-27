@@ -6,11 +6,11 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
-import project1 from "../../../../assets/images/three-d-project1.png";
-import project2 from "../../../../assets/images/three-d-project2.png";
-import project3 from "../../../../assets/images/three-d-project3.png";
-import project4 from "../../../../assets/images/three-d-project4.png";
-import project5 from "../../../../assets/images/three-d-project5.png";
+import project1 from "../../../../assets/images/three-d-project1.jpg";
+import project2 from "../../../../assets/images/three-d-project2.jpg";
+import project3 from "../../../../assets/images/three-d-project3.jpg";
+import project4 from "../../../../assets/images/three-d-project4.jpg";
+import project5 from "../../../../assets/images/three-d-project5.jpg";
 
 export function OurProject() {
   return (

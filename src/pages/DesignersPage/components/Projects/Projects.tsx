@@ -1,9 +1,9 @@
 import styles from "./Projects.module.css";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import site1 from "../../../../assets/images/design-site1.png";
-import site2 from "../../../../assets/images/design-site2.png";
-import site3 from "../../../../assets/images/design-site3.png";
+import site1 from "../../../../assets/images/design-site1.jpg";
+import site2 from "../../../../assets/images/design-site2.jpg";
+import site3 from "../../../../assets/images/design-site3.jpg";
 
 export function Projects() {
   return (
